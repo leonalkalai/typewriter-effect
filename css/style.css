@@ -84,21 +84,8 @@ img {
   }
 }
 
-@keyframes blink {
-  50% {
-    opacity: 0;
-  }
-}
-
-@-webkit-keyframes fontGrow {
-  100% {
-    font-size: 2em;
-  }
-}
-
 @keyframes fontGrow {
   100% {
     font-size: 2em;
   }
 }
-/*# sourceMappingURL=style.css.map */
